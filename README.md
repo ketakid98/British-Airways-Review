@@ -37,6 +37,10 @@ The primary objective of this dashboard is to help British Airways gain insights
 - British Airways Review Project link - https://public.tableau.com/views/BritishAirwaysReview_17314674685750/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
+  <img width="1196" alt="Screenshot 2024-11-14 at 3 57 52 PM" src="https://github.com/user-attachments/assets/70d2200d-fb18-4c06-bfdb-cada19b471dd">
+
+
+
 
 
 
